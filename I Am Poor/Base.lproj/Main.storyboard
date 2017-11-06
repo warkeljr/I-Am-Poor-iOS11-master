@@ -83,10 +83,10 @@
             </objects>
             <point key="canvasLocation" x="136.80000000000001" y="133.5832083958021"/>
         </scene>
-        <!--View Controller-->
+        <!--Poor DetailVC-->
         <scene sceneID="W6N-ub-Enb">
             <objects>
-                <viewController id="xhJ-Od-uVe" sceneMemberID="viewController">
+                <viewController id="xhJ-Od-uVe" customClass="poorDetailVC" customModule="I_Am_Poor" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="i7F-Ev-VoX"/>
                         <viewControllerLayoutGuide type="bottom" id="Uzx-xp-vAi"/>
@@ -105,6 +105,9 @@
                                 <state key="normal" title="Back to Poor">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <action selector="backToPoorPressed:" destination="xhJ-Od-uVe" eventType="touchUpInside" id="Ru0-2K-cVs"/>
+                                </connections>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="g8W-DM-lmV">
                                 <rect key="frame" x="16" y="28" width="343" height="576"/>
@@ -144,6 +147,9 @@ affluent, deep-pocketed, fat, fat-cat, flush, moneyed (also monied), opulent, ri
                             <constraint firstAttribute="trailing" secondItem="HN7-8X-DAM" secondAttribute="trailing" id="oiQ-j4-ETQ"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="backToPoorBtn" destination="HN7-8X-DAM" id="a4w-dL-LJB"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4hQ-re-4Cn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
