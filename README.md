@@ -8,6 +8,8 @@ Added a second viewcontroller
 Added a seque to the poorDetailVC
 Get back button installed
 
+Used Swift 4 / Xcode 9
+
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
 
