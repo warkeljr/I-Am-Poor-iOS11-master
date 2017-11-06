@@ -14,9 +14,10 @@ Used Swift 4 / Xcode 9
 ![Finished App](https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/Poor-LaunchScreen.png)
 
 ## Finished App - First View
-![Finished App] https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorVC.png
+![Finished App](https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorVC.png)
 
 ## Finished App - Second View
+![Finished App](https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorDetailVC.png)
 
 
 
