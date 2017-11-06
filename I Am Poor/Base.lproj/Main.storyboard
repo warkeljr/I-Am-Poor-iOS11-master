@@ -29,16 +29,16 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="qod-rz-09h">
-                                <rect key="frame" x="87" y="100" width="201" height="92"/>
+                                <rect key="frame" x="86" y="100" width="203.5" height="92"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="I Am Poor" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TQA-XA-Zr7">
-                                        <rect key="frame" x="0.0" y="0.0" width="201" height="59"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="203.5" height="59"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="50"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nothing to by but coal" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qpg-hx-nLQ">
-                                        <rect key="frame" x="0.0" y="67" width="201" height="25"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nothing to buy but coal" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qpg-hx-nLQ">
+                                        <rect key="frame" x="0.0" y="67" width="203.5" height="25"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="21"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -115,7 +115,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="576" id="cqn-mk-Lbw"/>
                                 </constraints>
-                                <mutableString key="text">Synonyms and Antonyms of poor
+                                <string key="text">Synonyms and Antonyms of poor
 
 lacking money or material possessions
 every year, we make up a basket of food at Thanksgiving for a poor family in the neighborhood
@@ -131,7 +131,7 @@ Phrases down on one's luck, out at elbows (or out at the elbows), out of pocket
 Near Antonyms of poor
 comfortable, prosperous
 Antonyms of poor
-affluent, deep-pocketed, fat, fat-cat, flush, moneyed (also monied), opulent, rich, silk-stocking, wealthy, well-heeled, well-off, well-to-do</mutableString>
+affluent, deep-pocketed, fat, fat-cat, flush, moneyed (also monied), opulent, rich, silk-stocking, wealthy, well-heeled, well-off, well-to-do</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="15"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
