@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  poorVC.swift
 //  I Am Poor
 //
 //  Created by Angela Yu on 24/08/2016.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class poorVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
