@@ -10,15 +10,7 @@ Finished the App.
 
 Used Swift 4 / Xcode 9
 
-## Finished App - LaunchScreen
-![Finished App](https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/Poor-LaunchScreen.png)
-
-## Finished App - First View
-![Finished App](https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorVC.png)
-
-## Finished App - Second View
-![Finished App](https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorDetailVC.png)
-
+<img src="https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/Poor-LaunchScreen.png" width="15%"></img> <img src="https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorVC.png" width="15%"></img> <img src="https://github.com/warkeljr/I-Am-Poor-iOS11-master/blob/Nav-setup/PoorDetailVC.png" width="15%"></img> 
 
 
 Copyright © Warcom
